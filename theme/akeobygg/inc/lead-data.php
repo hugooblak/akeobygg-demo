@@ -18,7 +18,5 @@ return array(
 		array( 'Jag blev rekommenderad AKEO Bygg AB av en snickare jag kände när jag behövde renovera mitt tak.Jag blev väldigt nöjd med deras renovering av taket och är det fortfarande 10 år senare När det blev aktuellt att riva mitt gamla förråd , bygga ett nytt och ny carport anlitade jag dem igen, de gjorde ett mycket proffsigt jo', 'Karin Jonzon', 'för 2 år sedan' ),
 		array( 'Både Axel och Sebastian (som samarbetade) var båda otroligt duktiga, proffsiga och trevliga! God kommunikation och rimlig prisuppskattning! Vi har ett gammalt hus så då kan det dyka upp lite vad som och då resonerade vi kring olika alternativ för att det skulle bli så bra som möjligt och de antog inte bara att de skull', 'Amanda Rosdahl', 'för 7 månader sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
