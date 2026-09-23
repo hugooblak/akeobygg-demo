@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'AKEO Bygg AB',
+	'bransch'        => 'Byggfirma',
 	'telefon'        => '072-587 37 15',
 	'telefon_tel'    => '+46725873715',
 	'ort'            => 'Hjärup',
